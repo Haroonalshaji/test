@@ -1,0 +1,49 @@
+body{
+    background-color: silver;
+    padding-left: 5%;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+div{
+    border: 3px solid rgb(255, 255, 255);
+    height: 600px;
+    width: 300px;
+    float: left;
+    padding: 2%;
+    margin: 20px;
+    align-items: center;
+    text-align: justify;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#Taj{
+    background-color: grey;
+}
+
+#Liberty{
+    background-color: grey;
+}
+
+#Eiffiel{
+    background-color:grey;
+}
+
+#Christ{
+    background-color: grey;
+}
+
+h1{
+    text-align: center  ;
+    text-decoration:underline 
+}
+
